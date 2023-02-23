@@ -1,5 +1,0 @@
-host: localhost
-database: WeatherAPI
-user: WeatherAPI
-password: Password
-port: 5433
