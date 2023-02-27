@@ -1,4 +1,7 @@
 Weather App
+## About
+- This project was created to help me practice using APIs, making REST API calls, and work with ReactJS. The purpose of this application is to develop a minimalistic styled weather forecast application that allows the user to gather 5-days of forecast for a specific location. This project uses the user submitted name of a place in OpenWeathermap.org's current weather forecast, then parses the returned data for the latitute and longitude coordinates which is then resubmitted to OpenWeatherMap's five day forecast, which explicitly requiries the latitute and longitute. From all the data obtained from OpenWeatherApp, the ReactJS framework is used to display the information about the current weather, and the five days forecast using bootstrap. 
+
 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
